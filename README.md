@@ -1,8 +1,4 @@
-Here is a **perfect, professional, job-ready README.md** for your **TestSphere Automation Framework** repo.
-You can copy–paste this directly into your README file **as is**.
-I’ve written it in a polished, industry-standard format suitable for GitHub, hiring managers, and interviewers.
 
----
 
 # 🧪 TestSphere – Selenium Automation Testing Framework
 
@@ -207,10 +203,4 @@ If you like this project, feel free to ⭐ star the repository!
 
 ---
 
-If you want, I can also create:
 
-✅ A professional **LinkedIn post text**
-✅ A **Jenkinsfile or GitHub Actions CI workflow**
-✅ A **project description for your resume**
-
-Just tell me **“give LinkedIn post”** or **“give resume description”**.

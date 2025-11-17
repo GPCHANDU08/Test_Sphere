@@ -70,8 +70,8 @@ TestSphere/
 ### **Step 1: Clone the Repository**
 
 ```
-git clone https://github.com/GPCHANDU08/TestSphere.git
-cd TestSphere
+git clone https://github.com/GPCHANDU08/Test_Sphere.git
+cd Test_Sphere
 ```
 
 ### **Step 2: Create a Virtual Environment**
@@ -202,5 +202,6 @@ Automation Testing • Python • Selenium • QA Engineer
 If you like this project, feel free to ⭐ star the repository!
 
 ---
+
 
 
